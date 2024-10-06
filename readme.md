@@ -1,8 +1,8 @@
 # Les balises principales en HTML
 
 ## 1. Structure du document
-- **`<html>`** : La balise racine d'un document HTML.
-- **`<head>`** : Contient les informations sur la page (titre, encodage, etc.).
+- **`<html>`** : La balise "racine" d'un document HTML.
+- **`<head>`** : Contient les informations sur la page (titre, encodage, etc.) ( backend ).
 - **`<body>`** : Contient le contenu visible de la page.
 
 ## 2. Titres et texte
@@ -10,13 +10,13 @@
 - **`<p>`** : Paragraphe.
 - **`<br>`** : Saut de ligne.
 - **`<hr>`** : Ligne horizontale.
-- **`<strong>`** : Texte en gras, important.
+- **`<strong>`** : Texte en gras, important ( peu utilise ).
 - **`<em>`** : Texte en italique, important.
 - **`<b>`** : Texte en gras, mais sans importance particulière.
 - **`<i>`** : Texte en italique, mais sans importance particulière.
 
 ## 3. Conteneurs pour organiser le contenu
-- **`<div>`** : Bloc utilisé pour structurer des sections de la page.
+- **`<div>`** : Bloc utilisé pour structurer des sections de la page ( partitionner ).
 - **`<span>`** : Conteneur pour styliser une partie du texte en ligne.
 
 ## 4. Listes
@@ -25,7 +25,7 @@
 - **`<li>`** : Élément d'une liste.
 
 ## 5. Liens et navigation
-- **`<a>`** : Lien cliquable (hyperlien).
+- **`<a>`** : Lien cliquable.
 - **`<nav>`** : Zone de navigation (menu).
 
 ## 6. Images et médias
@@ -52,15 +52,15 @@
 - **`<tbody>`** : Corps du tableau.
 - **`<tfoot>`** : Pied de tableau.
 
-## 9. Balises HTML5 (nouvelles balises sémantiques)
+## 9. Balises HTML5 ( nouvelles balises )
 - **`<header>`** : En-tête d'une page ou d'une section.
-- **`<footer>`** : Pied de page.
+- **`<footer>`** : Pied de page ( Credits souvent ).
 - **`<section>`** : Section d'une page.
 - **`<article>`** : Contenu autonome (article de blog, etc.).
 - **`<aside>`** : Contenu secondaire (barre latérale, infos en plus).
 - **`<main>`** : Contenu principal de la page.
 
 ## 10. Scripts et liens externes
-- **`<script>`** : Ajoute du JavaScript.
-- **`<link>`** : Lien vers une feuille de style CSS ou autre ressource.
+- **`<script>`** : Ajoute un fichier JavaScript.
+- **`<link>`** : Lien vers un fichier CSS ou autre ressource.
 - **`<meta>`** : Infos sur la page (description, mots-clés, etc.).
